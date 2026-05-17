@@ -242,6 +242,8 @@ Built with ❤️ and passion by **Team Sahaay** at Bengaluru Hackathon 2026.
 | Member | Role |
 |---|---|
 | Sairaj | Full-Stack Development & Integration |
+| Samruddhi N | Frontend Development & Integration |
+
 
 ---
 
